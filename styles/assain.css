@@ -1,0 +1,247 @@
+.azeret-mono-normal-font{
+    font-family: "Azeret Mono", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+/* nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 150px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav ul li {
+    list-style: none;
+    align-items: center;
+    justify-items: left;
+} */
+.bg1{
+    background-image: url(../assets/Hero-bg.png);
+   
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    gap: 32px;
+}
+.banner-head{
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    gap: 24px;
+}
+.subtitle-head{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    gap: 32px;
+    opacity: 0.7;
+}
+.banner{
+    margin: 26px 221px;
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+  
+
+}
+
+.btn-1{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 20px;
+    margin-bottom: 42px;
+    margin-top: 32px;
+
+}
+main{
+    max-width: 1440px;
+    margin: auto;
+}
+.padder{
+    padding: 80px 97px;
+}
+.section-name{
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+}
+.section-head{
+    margin-right: 47px;
+    margin-left: 47px;
+    margin-bottom: 48px;
+}
+.objective{
+    padding: 48px;
+    display: flex;
+    justify-content: space-between;
+}
+.objective-head{
+    font-size: 24px;
+    font-weight: bold;
+    opacity: 0.7;
+    
+}
+.align{
+    text-align: left;
+}
+.btn-2{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 32px;
+    padding: 12px 20px;
+    font-family: inherit;
+}
+.gap{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.margin{
+   margin-right: 130px;
+}
+.img-2{
+    height: 240px;
+    width: 240px;
+}
+.video{
+    padding: 32px;
+    border: 10px;
+    border-radius: 14;
+    display: flex;
+    justify-content: center;
+}
+.skill-tittle{
+    font-size: 24px;
+    font-weight: 800;
+}
+.skill{
+    padding: 40px;
+    vertical-align: 32px;
+    color: black;
+   
+}
+.skill-container{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+    margin-top: 42px;
+}
+.bgh{
+    background-color:  rgba(255, 76, 30, 0.05);
+  
+}
+.bgc{
+   
+    background-color: rgba(0, 76, 232, 0.05);
+    
+    margin-left: 24px;
+    margin-right: 24px;
+}
+.bgj{
+    
+    background-color: rgba(255, 223, 0, 0.05);
+                                        
+}
+.now{
+    margin-top: 111px;
+}
+.Next{
+    margin-top: 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.act{
+    display: flex;
+    justify-content: left;
+    padding: 40px;
+
+}
+.no-pic{
+    height: 108px;
+    width: 94.7px;
+    
+}
+.more{
+    font-weight: bold;
+    color: black;
+}
+.ex{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}.imicon{
+    background-image: url(../assets/handshake.jpg);
+    width: 100%;
+    height: 313px;
+    padding: 48px 64px;
+    margin-top: 49px;
+    border-radius: 15px;
+    background-position: center;
+    background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2);
+}
+.Support{
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    color: white;
+}
+.help{
+    color: white;
+    font-size: 19px;
+    font-weight: 400;
+    text-align: center;
+    gap: 30px;
+    opacity: 0.9;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+.inp{
+ margin: auto;
+ width: 540px;
+ height: 57px;
+ margin-top: 24px;
+ border-radius: 8px;
+ font-size: 17px;
+ padding-left: 20px;
+}
+.mask{
+    align-items: center;
+}
+.btn-4{
+ padding: 17px 20px;
+ width: 120px;
+ height: 57px;
+ border-radius: 8px;
+ font-size: 20px;
+ font-weight: 700;
+}
+.footer-margin{
+   
+   margin-top: 84px;
+   padding: 32px 150px 32px 150px
+}
+
+
+.foot{
+    font-size: 20px;
+    font-weight: 500;
+}
+.last-line{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
